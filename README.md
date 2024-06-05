@@ -1,4 +1,4 @@
-#A mix of Sonokai and Monokai because I liked Sonokai from sainnhe
+##A mix of Sonokai and Monokai because I liked Sonokai from sainnhe
 
 How to install
 
