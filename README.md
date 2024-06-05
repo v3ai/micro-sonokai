@@ -13,4 +13,17 @@ mkdir ~/.config/micro/colorschemes
 set colorscheme sonokai
 ```
 
+ALSO IMPORTANT
+- you need to add this line in your .bashrc file to get the full colors
+
+```
+export MICRO_TRUECOLOR=1
+```
+- and possibly this line too not sure
+
+```
+export COLORTERM=truecolor
+```
+
+
 - should be all set from there
